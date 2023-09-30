@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "959811009339",
+    "firebase_url": "https://brithday-26220-default-rtdb.firebaseio.com",
+    "project_id": "brithday-26220",
+    "storage_bucket": "brithday-26220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959811009339:android:f7e08c8f8af4e66539951e",
+        "android_client_info": {
+          "package_name": "com.example.brithday"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGe7H7tT1xmtTx6uNUDEk_yJgChQccGdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
